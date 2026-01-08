@@ -26,14 +26,6 @@ export default function Creditos() {
       descripcion:
         "Especialista en desarrollo de materiales educativos interculturales.",
     },
-    {
-      nombre: "Juan Diego Pillco",
-      rol: "Desarrollador Web",
-      carrera: "Ingeniería en Sistemas",
-      email: "juan.pillco@ucacue.edu.ec",
-      descripcion:
-        "Desarrollador full-stack especializado en plataformas educativas digitales.",
-    },
   ];
 
   const referencias = [
