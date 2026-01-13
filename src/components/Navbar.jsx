@@ -11,6 +11,7 @@ export default function Navbar() {
     { href: "/juegos", label: "Juegos" },
     { href: "/galeria", label: "Galería" },
     { href: "/educacion", label: "Educación" },
+    { href: "/entrevista", label: "Entrevista" },
     { href: "/creditos", label: "Créditos" },
   ];
 

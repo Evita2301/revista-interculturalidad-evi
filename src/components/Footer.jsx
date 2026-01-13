@@ -64,7 +64,7 @@ export default function Footer() {
               </p>
               <p>Unidad Académica de Educación</p>
               <p>Carrera de Educación Inicial</p>
-              <p className="text-game-primary">🎓 Proyecto Académico 2024</p>
+              <p className="text-game-primary">🎓 Proyecto Académico 2026</p>
             </div>
           </div>
 
@@ -82,7 +82,7 @@ export default function Footer() {
                 <strong>Nivel:</strong> Educación Inicial
               </p>
               <p>
-                <strong>Año:</strong> 2024
+                <strong>Año:</strong> 2026
               </p>
             </div>
           </div>
@@ -92,7 +92,7 @@ export default function Footer() {
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="text-center md:text-left">
               <p className="text-gray-300 text-sm mb-1">
-                © 2024 Universidad Católica de Cuenca - Juegos Tradicionales
+                © 2026 Universidad Católica de Cuenca - Juegos Tradicionales
               </p>
               <p className="text-gray-400 text-xs">
                 Proyecto de Educación Intercultural en la Primera Infancia

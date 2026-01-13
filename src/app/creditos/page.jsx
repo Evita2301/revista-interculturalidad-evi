@@ -156,7 +156,7 @@ export default function Creditos() {
                 <p className="text-gray-700 font-medium">
                   Semestre:{" "}
                   <span className="text-pastel-lavender-800">
-                    Sexto Semestre
+                    Séptimo Semestre
                   </span>
                 </p>
                 <p className="text-gray-700 font-medium">
