@@ -31,13 +31,6 @@ function Creditos() {
             carrera: "Licenciatura en Educación Inicial",
             email: "margarita.cordova@ucacue.edu.ec",
             descripcion: "Especialista en desarrollo de materiales educativos interculturales."
-        },
-        {
-            nombre: "Juan Diego Pillco",
-            rol: "Desarrollador Web",
-            carrera: "Ingeniería en Sistemas",
-            email: "juan.pillco@ucacue.edu.ec",
-            descripcion: "Desarrollador full-stack especializado en plataformas educativas digitales."
         }
     ];
     const referencias = [
@@ -137,7 +130,7 @@ function Creditos() {
                             children: "👥 Créditos y Referencias"
                         }, void 0, false, {
                             fileName: "[project]/src/app/creditos/page.jsx",
-                            lineNumber: 135,
+                            lineNumber: 127,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -145,20 +138,20 @@ function Creditos() {
                             children: "Equipo de trabajo, metodología y fundamentación académica"
                         }, void 0, false, {
                             fileName: "[project]/src/app/creditos/page.jsx",
-                            lineNumber: 138,
+                            lineNumber: 130,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                             className: "w-24 h-1 bg-game-primary mx-auto"
                         }, void 0, false, {
                             fileName: "[project]/src/app/creditos/page.jsx",
-                            lineNumber: 141,
+                            lineNumber: 133,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/app/creditos/page.jsx",
-                    lineNumber: 134,
+                    lineNumber: 126,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -173,7 +166,7 @@ function Creditos() {
                                     children: "🏛️ Universidad Católica de Cuenca"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/creditos/page.jsx",
-                                    lineNumber: 148,
+                                    lineNumber: 140,
                                     columnNumber: 15
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
@@ -181,7 +174,7 @@ function Creditos() {
                                     children: "Facultad de Educación"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/creditos/page.jsx",
-                                    lineNumber: 151,
+                                    lineNumber: 143,
                                     columnNumber: 15
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
@@ -189,7 +182,7 @@ function Creditos() {
                                     children: "Carrera de Educación Inicial"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/creditos/page.jsx",
-                                    lineNumber: 154,
+                                    lineNumber: 146,
                                     columnNumber: 15
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -205,13 +198,13 @@ function Creditos() {
                                                     children: "Interculturalidad y Diversidad"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/creditos/page.jsx",
-                                                    lineNumber: 160,
+                                                    lineNumber: 152,
                                                     columnNumber: 19
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/app/creditos/page.jsx",
-                                            lineNumber: 158,
+                                            lineNumber: 150,
                                             columnNumber: 17
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -221,16 +214,16 @@ function Creditos() {
                                                 " ",
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                     className: "text-pastel-lavender-800",
-                                                    children: "Sexto Semestre"
+                                                    children: "Séptimo Semestre"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/creditos/page.jsx",
-                                                    lineNumber: 166,
+                                                    lineNumber: 158,
                                                     columnNumber: 19
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/app/creditos/page.jsx",
-                                            lineNumber: 164,
+                                            lineNumber: 156,
                                             columnNumber: 17
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -243,35 +236,35 @@ function Creditos() {
                                                     children: "2025-2026"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/creditos/page.jsx",
-                                                    lineNumber: 172,
+                                                    lineNumber: 164,
                                                     columnNumber: 19
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/app/creditos/page.jsx",
-                                            lineNumber: 170,
+                                            lineNumber: 162,
                                             columnNumber: 17
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/app/creditos/page.jsx",
-                                    lineNumber: 157,
+                                    lineNumber: 149,
                                     columnNumber: 15
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/app/creditos/page.jsx",
-                            lineNumber: 147,
+                            lineNumber: 139,
                             columnNumber: 13
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/app/creditos/page.jsx",
-                        lineNumber: 146,
+                        lineNumber: 138,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/src/app/creditos/page.jsx",
-                    lineNumber: 145,
+                    lineNumber: 137,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -282,7 +275,7 @@ function Creditos() {
                             children: "👨‍👩‍👧‍👦 Equipo de Trabajo"
                         }, void 0, false, {
                             fileName: "[project]/src/app/creditos/page.jsx",
-                            lineNumber: 181,
+                            lineNumber: 173,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -299,12 +292,12 @@ function Creditos() {
                                                     children: "👤"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/creditos/page.jsx",
-                                                    lineNumber: 192,
+                                                    lineNumber: 184,
                                                     columnNumber: 21
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/creditos/page.jsx",
-                                                lineNumber: 191,
+                                                lineNumber: 183,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -315,7 +308,7 @@ function Creditos() {
                                                         children: miembro.nombre
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/creditos/page.jsx",
-                                                        lineNumber: 195,
+                                                        lineNumber: 187,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -323,7 +316,7 @@ function Creditos() {
                                                         children: miembro.rol
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/creditos/page.jsx",
-                                                        lineNumber: 198,
+                                                        lineNumber: 190,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -331,7 +324,7 @@ function Creditos() {
                                                         children: miembro.carrera
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/creditos/page.jsx",
-                                                        lineNumber: 201,
+                                                        lineNumber: 193,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -339,7 +332,7 @@ function Creditos() {
                                                         children: miembro.descripcion
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/creditos/page.jsx",
-                                                        lineNumber: 204,
+                                                        lineNumber: 196,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -351,35 +344,35 @@ function Creditos() {
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/app/creditos/page.jsx",
-                                                        lineNumber: 207,
+                                                        lineNumber: 199,
                                                         columnNumber: 21
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/creditos/page.jsx",
-                                                lineNumber: 194,
+                                                lineNumber: 186,
                                                 columnNumber: 19
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/creditos/page.jsx",
-                                        lineNumber: 190,
+                                        lineNumber: 182,
                                         columnNumber: 17
                                     }, this)
                                 }, index, false, {
                                     fileName: "[project]/src/app/creditos/page.jsx",
-                                    lineNumber: 186,
+                                    lineNumber: 178,
                                     columnNumber: 15
                                 }, this))
                         }, void 0, false, {
                             fileName: "[project]/src/app/creditos/page.jsx",
-                            lineNumber: 184,
+                            lineNumber: 176,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/app/creditos/page.jsx",
-                    lineNumber: 180,
+                    lineNumber: 172,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -390,7 +383,7 @@ function Creditos() {
                             children: "📅 Fases del Proyecto Académico"
                         }, void 0, false, {
                             fileName: "[project]/src/app/creditos/page.jsx",
-                            lineNumber: 222,
+                            lineNumber: 214,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -405,7 +398,7 @@ function Creditos() {
                                                 children: fase.numero
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/creditos/page.jsx",
-                                                lineNumber: 232,
+                                                lineNumber: 224,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -424,7 +417,7 @@ function Creditos() {
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/src/app/creditos/page.jsx",
-                                                                lineNumber: 237,
+                                                                lineNumber: 229,
                                                                 columnNumber: 23
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -432,13 +425,13 @@ function Creditos() {
                                                                 children: fase.periodo
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/creditos/page.jsx",
-                                                                lineNumber: 240,
+                                                                lineNumber: 232,
                                                                 columnNumber: 23
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/app/creditos/page.jsx",
-                                                        lineNumber: 236,
+                                                        lineNumber: 228,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -446,35 +439,35 @@ function Creditos() {
                                                         children: fase.descripcion
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/creditos/page.jsx",
-                                                        lineNumber: 244,
+                                                        lineNumber: 236,
                                                         columnNumber: 21
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/creditos/page.jsx",
-                                                lineNumber: 235,
+                                                lineNumber: 227,
                                                 columnNumber: 19
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/creditos/page.jsx",
-                                        lineNumber: 231,
+                                        lineNumber: 223,
                                         columnNumber: 17
                                     }, this)
                                 }, index, false, {
                                     fileName: "[project]/src/app/creditos/page.jsx",
-                                    lineNumber: 227,
+                                    lineNumber: 219,
                                     columnNumber: 15
                                 }, this))
                         }, void 0, false, {
                             fileName: "[project]/src/app/creditos/page.jsx",
-                            lineNumber: 225,
+                            lineNumber: 217,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/app/creditos/page.jsx",
-                    lineNumber: 221,
+                    lineNumber: 213,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -485,7 +478,7 @@ function Creditos() {
                             children: "📚 Referencias Bibliográficas (APA 7ª Edición)"
                         }, void 0, false, {
                             fileName: "[project]/src/app/creditos/page.jsx",
-                            lineNumber: 256,
+                            lineNumber: 248,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -503,7 +496,7 @@ function Creditos() {
                                                         children: ref.autor
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/creditos/page.jsx",
-                                                        lineNumber: 267,
+                                                        lineNumber: 259,
                                                         columnNumber: 21
                                                     }, this),
                                                     " (",
@@ -516,7 +509,7 @@ function Creditos() {
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/app/creditos/page.jsx",
-                                                        lineNumber: 269,
+                                                        lineNumber: 261,
                                                         columnNumber: 21
                                                     }, this),
                                                     ". ",
@@ -526,17 +519,17 @@ function Creditos() {
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/creditos/page.jsx",
-                                                lineNumber: 266,
+                                                lineNumber: 258,
                                                 columnNumber: 19
                                             }, this)
                                         }, index, false, {
                                             fileName: "[project]/src/app/creditos/page.jsx",
-                                            lineNumber: 262,
+                                            lineNumber: 254,
                                             columnNumber: 17
                                         }, this))
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/creditos/page.jsx",
-                                    lineNumber: 260,
+                                    lineNumber: 252,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -547,7 +540,7 @@ function Creditos() {
                                             children: "📖 Nota sobre las Referencias"
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/creditos/page.jsx",
-                                            lineNumber: 277,
+                                            lineNumber: 269,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -555,25 +548,25 @@ function Creditos() {
                                             children: "Todas las referencias bibliográficas han sido seleccionadas siguiendo criterios de relevancia académica, actualidad y pertinencia para el tema de educación intercultural y juegos tradicionales. Se ha priorizado la inclusión de autores reconocidos en el campo de la pedagogía intercultural y el desarrollo infantil."
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/creditos/page.jsx",
-                                            lineNumber: 280,
+                                            lineNumber: 272,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/app/creditos/page.jsx",
-                                    lineNumber: 276,
+                                    lineNumber: 268,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/app/creditos/page.jsx",
-                            lineNumber: 259,
+                            lineNumber: 251,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/app/creditos/page.jsx",
-                    lineNumber: 255,
+                    lineNumber: 247,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -586,7 +579,7 @@ function Creditos() {
                                 children: "🙏 Agradecimientos"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/creditos/page.jsx",
-                                lineNumber: 295,
+                                lineNumber: 287,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -594,7 +587,7 @@ function Creditos() {
                                 children: "Agradecemos especialmente a las comunidades educativas que han compartido sus tradiciones lúdicas, a los docentes que implementan la educación intercultural en sus aulas, y a todas las familias que preservan y transmiten estos valiosos juegos tradicionales."
                             }, void 0, false, {
                                 fileName: "[project]/src/app/creditos/page.jsx",
-                                lineNumber: 298,
+                                lineNumber: 290,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -602,29 +595,29 @@ function Creditos() {
                                 children: "© 2025 Universidad Católica de Cuenca – Revista Digital Intercultural"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/creditos/page.jsx",
-                                lineNumber: 304,
+                                lineNumber: 296,
                                 columnNumber: 13
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/creditos/page.jsx",
-                        lineNumber: 294,
+                        lineNumber: 286,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/src/app/creditos/page.jsx",
-                    lineNumber: 293,
+                    lineNumber: 285,
                     columnNumber: 9
                 }, this)
             ]
         }, void 0, true, {
             fileName: "[project]/src/app/creditos/page.jsx",
-            lineNumber: 132,
+            lineNumber: 124,
             columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/src/app/creditos/page.jsx",
-        lineNumber: 131,
+        lineNumber: 123,
         columnNumber: 5
     }, this);
 }
